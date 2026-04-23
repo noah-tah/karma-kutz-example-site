@@ -60,13 +60,15 @@ header {
 nav {
     background-color: #276427;
     padding: 1rem 0;
+    width: 100%;
+    align-self: stretch;
 }
 
 nav ul {
     list-style: none;
     display: flex;
     justify-content: center;
-    gap: 2rem;
+    gap: 4rem;
 }
 
 nav a {
